@@ -1,0 +1,12 @@
+Package: ittr
+Type: Package
+Title: Script Collection / WIP
+Version: 0.0.0
+Author: Joschka Thurner <joschka.thurner@th-koeln.de>
+Maintainer: Joschka Thurner <joschka.thurner@th-koeln.de>
+Description: Package for easy sharing of scripts at ITT Cologne.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports:
+RoxygenNote: 6.0.1
